@@ -1,0 +1,21 @@
+.text-green {
+  color: green;
+}
+
+.text-lg {
+  font-size: 125%;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.btn {
+  background-color: orange;
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+
+.btn:hover {
+  background-color: blue;
+}
